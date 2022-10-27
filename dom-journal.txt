@@ -1,0 +1,10 @@
+20221021
+
+- Initial setup in rpi (git), ssh and electronics
+- Blink excersice
+
+20221025
+- Basics electronics: resistors, ground, voltage
+
+20221027
+- Pulse width modulation: Breathing LED
