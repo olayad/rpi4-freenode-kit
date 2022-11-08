@@ -8,3 +8,6 @@
 
 20221027
 - Pulse width modulation: Breathing LED
+
+20221107
+- Pulse width: Colorful LED
